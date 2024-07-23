@@ -1,11 +1,11 @@
-name = "server-ali" # todo
+name = "digital-ali" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "ali.motivar.my.id"
+pattern = "digital.motivar.my.id"
 custom_domain = true
 
 [vars]
@@ -15,4 +15,4 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "6b6059ed-217e-4ec0-a498-a5fe6b04fbae"
+UUID = "bf7efa55-aa10-4c9d-96c5-ea714e9d9e4c"
